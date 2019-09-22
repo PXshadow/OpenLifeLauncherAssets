@@ -1,0 +1,7 @@
+reflector:  Server list address
+data: link to a zip of the data
+account: link to signup/buy into the game server
+desc: description
+tech: link to one tech
+discord: discord invite link
+image: file name of display image with extension

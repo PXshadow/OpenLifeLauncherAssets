@@ -1,0 +1,1 @@
+OpenLife the launcher uses this repository to display information to the launcher about client and server information/meta data.

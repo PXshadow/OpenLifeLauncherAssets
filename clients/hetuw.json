@@ -1,0 +1,8 @@
+{
+    "url":"https://github.com/hetuw/OneLife/releases/latest",
+    "windows":1,
+    "mac":-1,
+    "linux":0,
+    "desc":"* Zoom\n* Age display\n* Coordinates display\n* Food-Value indicator\n* Show player names\n* Death messages\n* Players in range pannel\n* Permant emotions",
+    "image":"hetuw_image.jpg"
+}

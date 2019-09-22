@@ -1,0 +1,4 @@
+url: link to the latest client release on github
+[windows, mac, linux] : index to the order the files show up in release
+desc: description
+image: file name of display image with extension
